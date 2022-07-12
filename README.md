@@ -1,24 +1,14 @@
-# soluconst
+# Vue Basic
 
 ## Project setup
 ```
-npm install
-```
+Basic Vue Template created with vue-cli
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## How to create a Vue Proyect
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Firts install degit with *npm install degit -g*
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Create a nuew proyect
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+degit git:wcervini/vuebasic **proyect name**
+
