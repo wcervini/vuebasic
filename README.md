@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-Basic Vue Template created with vue-cli
+  Basic Vue Template created with vue-cli
 
 ## How to create a Vue Proyect
 
