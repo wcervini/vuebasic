@@ -1,6 +1,6 @@
 {
-  "name": //todo Proyect Name,
-  "version": //TODO Version,
+  "name": "Vue Basic Template",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
